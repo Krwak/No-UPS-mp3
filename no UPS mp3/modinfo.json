@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "no_UPS_mp3",
+    "name": "no ups mp3",
+    "authors": [ "Krwak" ],
+    "maintainers": [ "Krwak" ],
+    "description": "Battery powered mp3 just like before",
+    "category": "items",
+    "dependencies": [ "bn" ]
+  }  
+]
